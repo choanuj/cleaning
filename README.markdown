@@ -200,6 +200,3 @@ Please include tests for new features in `test_cleaner.py` and ensure all tests 
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For issues or questions, open an issue on GitHub or contact [Your Name] at [your.email@example.com].
